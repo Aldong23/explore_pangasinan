@@ -1,0 +1,25 @@
+{
+  "name": "practice1",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare",
+    "deploy": "gh-pages -d dist"
+  },
+  "dependencies": {
+    "@nuxt/icon": "^2.2.1",
+    "@nuxt/image": "^2.0.0",
+    "@nuxtjs/google-fonts": "^3.2.0",
+    "@nuxtjs/tailwindcss": "^6.14.0",
+    "nuxt": "^4.3.1",
+    "vue": "^3.5.28",
+    "vue-router": "^4.6.4"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
