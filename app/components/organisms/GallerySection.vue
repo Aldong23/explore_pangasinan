@@ -8,32 +8,32 @@
 
         <div class="gallery-grid">
             <GalleryImage
-            src="/images/hundred_islands.jpg"
+            src="./images/hundred_islands.jpg"
             title="Hundred Islands"
             />
 
             <GalleryImage
-            src="/images/bolinao_lighthouse.jpg"
+            src="./images/bolinao_lighthouse.jpg"
             title="Bolinao Lighthouse"
             />
 
             <GalleryImage
-            src="/images/bolinao_falls.jpg"
+            src="./images/bolinao_falls.jpg"
             title="Bolinao Falls"
             />
 
             <GalleryImage
-            src="/images/patar.jpg"
+            src="./images/patar.jpg"
             title="Patar Beach"
             />
 
             <GalleryImage
-            src="/images/camp.jpg"
+            src="./images/camp.jpg"
             title="Camping at the Beach"
             />
 
             <GalleryImage
-            src="/images/enchanted_cave.jpg"
+            src="./images/enchanted_cave.jpg"
             title="Enchanted Cave"
             />
         </div>
