@@ -1,0 +1,1 @@
+import{_ as a,o as e,c as n,r,p as t}from"./CLaN1j4W.js";const _={},o={class:"paragraph"};function c(s,p){return e(),n("p",o,[r(s.$slots,"default")])}const l=Object.assign(a(_,[["render",c]]),{__name:"Paragraph"}),d=t("/images/hundred_islands.jpg");export{l as _,d as a};
