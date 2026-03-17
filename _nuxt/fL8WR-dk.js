@@ -1,0 +1,1 @@
+import{_ as n,o,c as t,r as _}from"./Cu-7ZxUi.js";const c={};function r(e,s){return o(),t("h2",null,[_(e.$slots,"default")])}const l=Object.assign(n(c,[["render",r]]),{__name:"Heading"});export{l as _};
